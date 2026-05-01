@@ -54,8 +54,8 @@ Ben **Yusuf Tek**, Karabük Üniversitesi Bilişim Güvenliği Teknolojisi öğr
 ### 📊 Stats & Impact
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusft&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusft&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yusft&show_icons=true&theme=dark&hide_border=true&hide_bg=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusft&layout=compact&theme=dark&hide_border=true&hide_bg=true&title_color=58A6FF&text_color=C9D1D9" height="150" alt="Top Languages" />
 </div>
 
 ---
